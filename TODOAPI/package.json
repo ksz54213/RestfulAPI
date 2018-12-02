@@ -1,0 +1,25 @@
+{
+  "name": "topapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "bin": {
+    "topapi": "server.js"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "debug": "^4.1.0",
+    "mocha-mongoose": "^1.2.0",
+    "expect.js": "^0.3.1",
+    "validator": "^10.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    
+  },
+  "author": "",
+  "license": "ISC"
+}
